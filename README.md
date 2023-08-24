@@ -11,11 +11,9 @@ This Python script checks a list of proxy addresses from a file and identifies t
 
 1. git clone https://github.com/Jhon2Doe/WorkingProxyChecker.git
 
-2. Create a file named `proxy.txt` in the same directory with a list of proxy addresses, each on a separate line.
+2. Edit file named `proxy.txt` with a list of proxy addresses, each on a separate line.
 
-   Example `proxy.txt` file:
-xxx.xxx.xxx.xxx:8080
-xxx.xxx.xxx.xxx:4145
+   Example `proxy.txt` file
 
 3. Open a terminal/command prompt and navigate to the directory containing the script.
 
